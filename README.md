@@ -1,1 +1,0 @@
-# Underwater_Mineral_Detection_SensorPackage
